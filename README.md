@@ -1,4 +1,4 @@
-# Python_Projects
+# Python Projects
 Christian Rasmussen
 - A collection of all three of my projects throughout my Python Programming class.
 
